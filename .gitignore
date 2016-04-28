@@ -1,0 +1,12 @@
+venv/*
+*~
+
+*.xml
+*.fna
+*.faa
+tutorial_notebooks/data/*
+tutorial_notebooks/save/*
+
+paper_reference/*.pdf
+
+
