@@ -1,6 +1,7 @@
 venv/*
 *~
 
+*.zip
 *.xml
 *.fna
 *.faa
