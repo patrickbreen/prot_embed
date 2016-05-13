@@ -1,6 +1,7 @@
 venv/*
 data/protein/*
 *~
+*.ipynb_checkpoints*
 
 *.zip
 *.xml
